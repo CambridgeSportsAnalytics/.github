@@ -34,7 +34,7 @@ This organization is structured around three layers:
 |:---|:---|
 | [prediction_engine_quickstart](https://github.com/CambridgeSportsAnalytics/prediction_engine_quickstart) | Quickstart guide to using the CSA Prediction Engine |
 | [csa_prediction_engine](https://github.com/CambridgeSportsAnalytics/csa_prediction_engine) | API wrappers and endpoint clients |
-| [csa_common_lib](https://github.com/CambriddgeSportsAnalytics/csa_common_lib) | Shared utilities, enums, helpers, and data containers |
+| [csa_common_lib](https://github.com/CambridgeSportsAnalytics/csa_common_lib) | Shared utilities, enums, helpers, and data containers |
 
 
 We maintain both **local-first tooling** for in-house modeling and **cloud-ready APIs** for external partners.
