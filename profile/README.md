@@ -32,7 +32,7 @@ This organization is structured around three layers:
 
 | Layer | Description |
 |:---|:---|
-| [prediction_engine_quickstart](https://github.com/CambridgeSportsAnalytics/prediction_engine_quicstart) | Quickstart guide to using the CSA Prediction Engine |
+| [prediction_engine_quickstart](https://github.com/CambridgeSportsAnalytics/prediction_engine_quickstart) | Quickstart guide to using the CSA Prediction Engine |
 | [csa_prediction_engine](https://github.com/CambridgeSportsAnalytics/csa_prediction_engine) | API wrappers and endpoint clients |
 | [csa_common_lib](https://github.com/CambriddgeSportsAnalytics/csa_common_lib) | Shared utilities, enums, helpers, and data containers |
 
