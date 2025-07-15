@@ -1,11 +1,14 @@
+![Cambridge Sports Analytics](https://prediction-vault.csanalytics.io/csa_logo_horizontal.png)
+
 # Cambridge Sports Analytics (CSA)
 
-Welcome to the GitHub organization for **Cambridge Sports Analytics (CSA)** — creators of the **Relevance-Based Prediction (RBP)** method.
+Welcome to the GitHub organization for **Cambridge Sports Analytics (CSA)** — creators of the **Relevance-Based Prediction (RBP)** method. RBP is an innovative model-free forecasting routine that overcomes the limitations of both classical prediction models and AI models.
 
 We develop mathematical models, software libraries, and APIs that support high-context, explainable prediction systems, with applications in sports, finance, healthcare, education, and beyond.
 
 At CSA, we believe predictions should not only be accurate — they should be **understandable**, **transparent**, and **relevant to decision-making**.
 
+🔗 Learn more at [csanalytics.io](https://www.csanalytics.io) or follow our updates on [LinkedIn](https://www.linkedin.com/company/csanalytics)
 
 ## 🔬 What We Do
 
@@ -28,10 +31,11 @@ Our flagship products include:
 This organization is structured around three layers:
 
 | Layer | Description |
-|-------|-------------|
-| `csa_prediction_engine` | API wrappers and endpoint clients |
-| `csa_common_lib` | Shared utilities, enums, helpers, and data containers |
-| `prediction_engine_quickstart` | Quickstart guide to using the CSA Prediction Engine |
+|:---|:---|
+| [prediction_engine_quickstart](https://github.com/CambridgeSportsAnalytics/prediction_engine_quicstart) | Quickstart guide to using the CSA Prediction Engine |
+| [csa_prediction_engine](https://github.com/CambridgeSportsAnalytics/csa_prediction_engine) | API wrappers and endpoint clients |
+| [csa_common_lib](https://github.com/CambriddgeSportsAnalytics/csa_common_lib) | Shared utilities, enums, helpers, and data containers |
+
 
 We maintain both **local-first tooling** for in-house modeling and **cloud-ready APIs** for external partners.
 
