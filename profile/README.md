@@ -71,8 +71,7 @@ We’re open to:
 - External API integrations
 - Collaborative pilot studies with teams or analytics groups
 
-Want to learn more or collaborate?  
-📬 Reach us at **prediction@csanalytics.io**
+Want to learn more or collaborate? Reach us at 📧 **prediction@csanalytics.io**
 
 
 ## 🧭 Get Started
