@@ -83,4 +83,4 @@ If you're looking to:
 Please [get in touch](mailto:prediction@csanalytics.io) if you’re interested in beta access, licensing, or research partnerships.
 
 ## Licensing
-Copyright (c) 2023 - 2025 Cambridge Prediction Analytics, LLC. All rights reserved.
+Copyright (c) 2023 - 2026 Cambridge Prediction Analytics, LLC. All rights reserved.
